@@ -5,6 +5,7 @@
 **Build a full-stack social app with the MERN stack!**
 
   -Master MongoDB, Express, React & Node.js
+  
   -User auth, data, & (optional) real-time features
   -Modular, scalable architecture
   -Deploy to the web & conquer the social sphere
