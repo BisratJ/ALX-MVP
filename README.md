@@ -18,7 +18,6 @@
   
 **Perfect for:**
 
-<br>
 
   -MERN stack learners
   
@@ -29,5 +28,5 @@
   -Clone, code, conquer! (Instructions coming soon)
 
   
-
+<br>
 This is an MVP - room for expansion!
