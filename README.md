@@ -4,6 +4,7 @@
 
 **Build a full-stack social app with the MERN stack!**
 
+<br>
 
   -Master MongoDB, Express, React & Node.js
   
