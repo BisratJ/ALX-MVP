@@ -14,8 +14,11 @@
   
   -Deploy to the web & conquer the social sphere
   
+<br>
   
 **Perfect for:**
+
+<br>
 
   -MERN stack learners
   
